@@ -1,1 +1,42 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "v"
+        },
+        "datum_van_de_eerste_insulinetoediening": "09/2009",
+        "patient_niss": 83956110,
+        "naam": "Kootstra",
+        "voornaam": "Demir",
+        "geboortedatum": "08/19/2009",
+        "__comma_dummy": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "datum_van_de_meest_recente_consultatie": "12/04/2013"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "12/04/2013",
+                "lengte_cm": 171,
+                "__comma_dummy": null
+            },
+            "gewicht": {
+                "datum_van_bepaling": "12/04/2013",
+                "gewicht_kg": "51",
+                "__comma_dummy": null
+            },
+            "systolische_bloeddruk": {
+                "datum_van_bepaling": "12/04/2013",
+                "systolische_bloeddruk_mmhg": 111,
+                "__comma_dummy": null
+            },
+            "diastolische_bloeddruk": {
+                "datum_van_bepaling": "12/04/2013",
+                "diastolische_bloeddruk_mmhg": 59,
+                "__comma_dummy": null
+            },
+            "insulinedosis_iedag": "20",
+            "__comma_dummy": null
+        }
+    }
+}
