@@ -3,40 +3,76 @@
         "geslacht": {
             "selectedChoice": "v"
         },
-        "datum_van_de_eerste_insulinetoediening": "09/2009",
+        "datum_van_de_eerste_insulinetoediening": "Invalid Date",
         "patient_niss": 83956110,
         "naam": "Kootstra",
         "voornaam": "Demir",
-        "geboortedatum": "08/19/2009",
-        "__comma_dummy": null
+        "geboortedatum": "Wed Aug 19 2009 00:00:00 GMT+0200 (CEST)",
+        "__comma_dummy": null,
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {}
     },
     "datacollectie": {
         "algemeen": {
-            "datum_van_de_meest_recente_consultatie": "12/04/2013"
+            "datum_van_de_meest_recente_consultatie": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
         },
         "metingen": {
             "lengte": {
-                "datum_van_bepaling": "12/04/2013",
+                "datum_van_bepaling": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
                 "lengte_cm": 171,
                 "__comma_dummy": null
             },
             "gewicht": {
-                "datum_van_bepaling": "12/04/2013",
+                "datum_van_bepaling": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
                 "gewicht_kg": "51",
                 "__comma_dummy": null
             },
             "systolische_bloeddruk": {
-                "datum_van_bepaling": "12/04/2013",
+                "datum_van_bepaling": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
                 "systolische_bloeddruk_mmhg": 111,
                 "__comma_dummy": null
             },
             "diastolische_bloeddruk": {
-                "datum_van_bepaling": "12/04/2013",
+                "datum_van_bepaling": "Wed Dec 04 2013 00:00:00 GMT+0100 (CET)",
                 "diastolische_bloeddruk_mmhg": 59,
                 "__comma_dummy": null
             },
             "insulinedosis_iedag": "20",
             "__comma_dummy": null
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
         }
+    },
+    "algemeen": {
+        "jaar_van_datacollectie": 2013
     }
 }
